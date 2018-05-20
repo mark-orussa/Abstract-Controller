@@ -1,5 +1,5 @@
 # Abstract-Controller
-This is an sample Rails application showing how you can abstract controller actions. By doing this you can save yourself the hassle of managing multiple controller actions of generic classes.
+This is an sample Rails application showing how you can abstract controller actions. By doing this you can save yourself the hassle of managing multiple controller actions in generic child controller.
 
 The default create, destroy, edit, index, new, show, and update actions can be managed in the parent controller, leaving your child controllers clutter-free. This also means you can make global changes that affect all of the children.
 
